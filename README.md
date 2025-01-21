@@ -6,17 +6,13 @@ The AntiPlague Coronavirus Game is a strategic simulation where players prevent 
 
 Designed with Java Swing and adhering to the MVC pattern, the game includes dynamic animations, scalable visuals, and multiple difficulty levels to create an immersive experience.
 
-![Image](https://github.com/user-attachments/assets/78ba647c-b077-4339-bac4-dd717b5cfcb0)
+![Image](https://github.com/user-attachments/assets/991d895e-e216-4201-a94a-9d86a68ff268)
+![Image](https://github.com/user-attachments/assets/510f3c50-8bb2-4146-9611-12c11f4533c1)
+![Image](https://github.com/user-attachments/assets/81524234-120e-4200-911d-689ee5b66510)
 
-![Image](https://github.com/user-attachments/assets/023ef693-e845-4b1c-804a-919dd83a64b0)
-
-![Image](https://github.com/user-attachments/assets/a4db51d3-e97d-46fc-92e6-1dc4af25c3ea)
-
-![Image](https://github.com/user-attachments/assets/ca3a1ed9-77a1-43be-9541-b28bf86bb27e)
-
-![Image](https://github.com/user-attachments/assets/954d5d71-57a3-4ed0-9a16-3eb8e365afe7)
-
-![Image](https://github.com/user-attachments/assets/1b05cf0b-c2a0-432a-aed4-f2e4b46d57f7)
+![Image](https://github.com/user-attachments/assets/5d7b1794-1c71-49b2-9214-60d02ed91190)
+![Image](https://github.com/user-attachments/assets/27c77b7e-e3b3-497b-a4f7-092a822b2267)
+![Image](https://github.com/user-attachments/assets/e540f555-513f-4853-9f64-7b600094c11e)
 
 
 ## Table Of Contents
